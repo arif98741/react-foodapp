@@ -8,4 +8,4 @@ npm run dev
 
 </pre>
 
-Visiable at [https://react-todo2024x.netlify.app](https://react-foodapp-bd-2024.netlify.app/)
+Visible at [https://react-todo2024x.netlify.app](https://react-foodapp-bd-2024.netlify.app/)
